@@ -20,3 +20,4 @@
 #
 
 default['hostsfile']['path'] = nil
+default['hostsfile']['items'] = {}
